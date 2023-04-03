@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListViewDogs</string>
+    <string name="plus">plus</string>
+
+    <string-array name="dogs">
+        <item>australian silky terrier</item>
+        <item>cairn terrier</item>
+        <item>cesky terier</item>
+        <item>chihuahua long coat</item>
+        <item>golden retriever</item>
+        <item>malmut</item>
+        <item>pudel duży</item>
+        <item>cavalier spaniel</item>
+        <item>labrador retriever</item>
+    </string-array>
+
+    <string-array name="dogsDescription">
+        <item>australian silky terrier</item>
+        <item>cairn terrier</item>
+        <item>cesky terier</item>
+        <item>chihuahua long coat</item>
+        <item>golden retriever</item>
+        <item>malmut</item>
+        <item>pudel duży</item>
+        <item>cavalier spaniel</item>
+        <item>labrador retriever</item>
+    </string-array>
+
+</resources>
