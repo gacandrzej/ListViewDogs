@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
     private FloatingActionButton addItemFAB;
     private HashMap<String,Object> hashMap;
 
-    private ArrayList<HashMap<String,Object>> dogsList;
+    private List<HashMap<String,Object>> dogsList;
+   // private List dogsList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
